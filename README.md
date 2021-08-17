@@ -1,4 +1,4 @@
-# GuessNumber
+# base-guess-number
 随机数小游戏
 
 1.Java代码三级跳——表达式，语句和代码块
