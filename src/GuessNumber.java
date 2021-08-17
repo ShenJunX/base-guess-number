@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @Date 2021/8/17
  */
 public class GuessNumber {
-    
+
     public static void main(String[] args) {
         // 创建Scanner来获取用户的键盘输入
         Scanner inPut = new Scanner(System.in);
